@@ -1,0 +1,7 @@
+{
+  "name": "GlassyGrad Scholar",
+  "description": "A modern, glassmorphism-styled high school companion app featuring an 8-period schedule planner, advanced GPA calculator with AP weighting, and an AI graduation advisor capable of analyzing credit breakdown images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
